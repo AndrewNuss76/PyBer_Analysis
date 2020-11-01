@@ -2,9 +2,9 @@
 Creating visualizations with Pandas
 
 ## Overview of Pyber Analysis
-The intent of this analysis was to identify Pybers market performance across 3 different city types: Rural, Suburba, and Urban. When looking at these different cities we need to understand the different factors that play into profitability for Pyber. For example, population density across those different city types greatly impacts profitability. When take a look below:
+The intent of this analysis was to identify Pybers market performance across 3 different city types: Rural, Suburba, and Urban. When looking at these different cities we need to understand the different factors that play into profitability for Pyber. For example, population density across those different city types greatly impacts profitability. When take a look below at the summarized data we can see a varity of trends:
+![Summary Fare Data](analysis/PyBer_fare_summary.png)
 
-![Outcomes based on Launch](Resources/Theater_Outcomes_vs_Launch.png)
 
 
 ## Results
